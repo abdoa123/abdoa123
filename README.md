@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-Software engineering at WE-Tada
+Software engineering at TE data
 
 Back End Developer at MedcloudEg
 ```
