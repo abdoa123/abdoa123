@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 - Department Major Computer Science Minor Decision supprot
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 (node js , .Net Core , Android , Angular js)
+- 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 (node js , .Net Core , Android , React js , Angular js , CRM)
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 [<img src="https://medcloudeg.com/static/media/logo-clevleand-colors.7fb8d0c5.png" height="30em" align="center" alt="medcloudEg" title="medcloudEg"/>] (https://medcloudeg.com)
 
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
-Software engineering at TE data
+Software engineering at Systems Egypt
 
 Back End Developer at MedcloudEg
 ```
